@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+}
+
+.App {
+    text-align: center;
+}
+
+.button {
+    padding: 5px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.login-container {
+    background-color: #dbd9d9;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.login__text {
+
+}
+.login__form {
+
+}
+.login__form_input {
+
+}
+.login__form_input_label {
+
+}
+.login__form_input {
+
+}
+.login__form_input_label {
+
+}
+.login__form_input_button {
+
+}
